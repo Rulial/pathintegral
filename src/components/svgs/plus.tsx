@@ -1,4 +1,4 @@
-const Plus = (props) => (
+const Plus = (props: any) => (
   <svg
     viewBox="0 0 24 24"
     width="24"

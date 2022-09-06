@@ -1,4 +1,4 @@
-const Lightning = (props) => (
+const Lightning = (props: any) => (
   <svg
     width="24"
     height="24"

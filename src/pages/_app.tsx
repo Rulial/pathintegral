@@ -1,7 +1,8 @@
 import '../styles/global.css'
 import Footer from '../components/footer'
+import type { AppProps } from 'next/app'
 
-export default function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Component {...pageProps} />
@@ -9,3 +10,4 @@ export default function MyApp({ Component, pageProps }) {
     </>
   )
 }
+export default MyApp

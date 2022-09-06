@@ -1,4 +1,4 @@
-const Wifi = (props) => (
+const Wifi = (props: any) => (
   <svg
     viewBox="0 0 24 24"
     stroke="currentColor"

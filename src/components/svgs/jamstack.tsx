@@ -1,4 +1,4 @@
-const Jamstack = (props) => (
+const Jamstack = (props: any) => (
   <svg
     width="24"
     height="24"
