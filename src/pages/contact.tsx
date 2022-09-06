@@ -49,8 +49,8 @@ export default function Contact() {
         <h1 style={{ marginTop: 0 }}></h1>
 
         <div className={contactStyles.name}>
-          If you want to build the future of work and play then {' '}
-          <ExtLink href="">get in touch!</ExtLink>
+          Get in touch to build the future of {' '}
+          <ExtLink href=""> work and play!</ExtLink>
         </div>
 
         <div className={contactStyles.links}>
