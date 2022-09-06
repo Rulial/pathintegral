@@ -6,7 +6,7 @@ import sharedStyles from '../styles/shared.module.css'
 export default function Index() {
   return (
     <>
-      <Header titlePre="PATH INTEGRAL" />
+      <Header titlePre="METAGAME" />
       <div className={sharedStyles.layout}>
         <img
           src="/metaverse02.png"
