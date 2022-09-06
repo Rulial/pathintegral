@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css'
 const navItems: { label: string; page?: string; link?: string }[] = [
   { label: 'PATH INTEGRAL', page: '/' },
   { label: 'SUMMER', link: 'https://docs.path-integral.com/Ecosystem/SWUMR/overview' },
-  { label: 'TOUCH', page: '/contact' },
+  
   { label: 'DOCS', link: 'https://docs.path-integral.com' },
 ]
 
