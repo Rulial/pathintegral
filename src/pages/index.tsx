@@ -14,9 +14,9 @@ export default function Index() {
           width="1920"
           alt="metaverse"
         />
-        <h1> imagination >0  </h1>
+        <h1> imagination >0 </h1>
         <h2>
-           {'#'}
+
           <ExtLink
             href=""
             className="dotted"
