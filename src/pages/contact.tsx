@@ -4,10 +4,9 @@ import ExtLink from '../components/ext-link'
 import sharedStyles from '../styles/shared.module.css'
 import contactStyles from '../styles/contact.module.css'
 
-import GitHub from '../components/svgs/github'
+
 import Twitter from '../components/svgs/twitter'
 import Envelope from '../components/svgs/envelope'
-import LinkedIn from '../components/svgs/linkedin'
 import Notion from '../components/svgs/notion'
 import Discord from '../components/svgs/discord'
 
@@ -49,7 +48,7 @@ export default function Contact() {
         <h1 style={{ marginTop: 0 }}></h1>
 
         <div className={contactStyles.name}>
-          Get in touch to build the future of {' '}
+          Lets build the future of {' '}
           <ExtLink href=""> work and play!</ExtLink>
         </div>
 

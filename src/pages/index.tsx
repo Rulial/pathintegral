@@ -20,13 +20,8 @@ export default function Index() {
         />
       
         <h2>
-          <ExtLink
-            href=""
-            className="dotted"
-            style={{ color: 'inherit' }}
-          >
           A GAME THAT IS PLAYING ITSELF
-          </ExtLink>
+          
         </h2>
 
         <Features />

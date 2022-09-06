@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer>
         <span></span>
-        <ExtLink href="app.path-integral.com">
+        <ExtLink href="https://app.path-integral.com">
           <img
             src="/PI0MASTER.png"
             height={70}
@@ -15,7 +15,7 @@ export default function Footer() {
         </ExtLink>
         <span> 
           BUILDING {' '}
-          <ExtLink href="">
+          <ExtLink href="https://twitter.com/pathintegral0">
            THE METAVERSE @ PATH INTEGRAL INC
           </ExtLink>
           
