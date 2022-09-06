@@ -16,7 +16,7 @@ const Code = ({ children, language = 'javascript' }) => {
         />
       </pre>
 
-      <style jsx>{`
+      <style>{`
         pre {
           tab-size: 2;
         }

@@ -16,7 +16,7 @@ export default function Index() {
         />
         <h1> imagination >0  </h1>
         <h2>
-           {' '}
+           {'#'}
           <ExtLink
             href=""
             className="dotted"
