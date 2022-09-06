@@ -50,7 +50,7 @@ export default function Footer() {
         </ExtLink>
         <span> 
           BUILDING {' '}
-          <ExtLink href="https://twitter.com/pathintegral0">
+          <ExtLink href="">
            THE METAVERSE @ PATH INTEGRAL INC
           </ExtLink>
           

@@ -15,7 +15,7 @@ const features = [
   
   {
     text: 'HYBRID',
-    icon: Edit,
+    icon: Wifi,
   },
   
   {
@@ -24,9 +24,15 @@ const features = [
   },
 
   {
-    text: 'AUTONOMOUS',
+    text: 'REALTIME',
     icon: Lighthouse,
   },
+
+  {
+    text: 'AUTONOMOUS',
+    icon: Plus,
+  },
+  
 ]
 
 const Features = () => (
