@@ -1,6 +1,5 @@
 import ExtLink from './ext-link'
 
-import sharedStyles from '../styles/shared.module.css'
 import contactStyles from '../styles/contact.module.css'
 
 
