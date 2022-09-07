@@ -7,7 +7,7 @@ import contactStyles from '../styles/contact.module.css'
 import Twitter from '../components/svgs/twitter'
 import Envelope from '../components/svgs/envelope'
 import Notion from '../components/svgs/notion'
-import Discord from '../components/svgs/discord'
+import Swumr from '../components/svgs/swumr'
 
 const footer = [
   {
@@ -29,10 +29,11 @@ const footer = [
   },
 
   {
-    Comp: Discord,
-    alt: 'discord icon',
-    link: '#',
+    Comp: Swumr,
+    alt: 'Swumr icon',
+    link: 'https://swumr.xyz',
   },
+  
 ]
 
 export default function Footer() {
