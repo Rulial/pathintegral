@@ -11,17 +11,16 @@ const features = [
     text: 'DECENTRALISED-AUTONOMY',
     icon: Lightning,
   },
+
+ {
+    text: 'REALTIME',
+    icon: Lighthouse,
+  },
   
   {
     text: 'MODULAR',
     icon: Jamstack,
   },
-
-  {
-    text: 'REALTIME',
-    icon: Lighthouse,
-  },
-
   
 ]
 
