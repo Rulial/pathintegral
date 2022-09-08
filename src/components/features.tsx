@@ -8,7 +8,7 @@ import Scroll from './svgs/scroll'
 
 const features = [
   {
-    text: 'DECENTRALISED',
+    text: 'DECENTRALISED-AUTONOMY',
     icon: Lightning,
   },
   
@@ -18,7 +18,7 @@ const features = [
   },
 
   {
-    text: 'REALTIME-AUTONOMOUS',
+    text: 'REALTIME',
     icon: Lighthouse,
   },
 
