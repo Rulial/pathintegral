@@ -13,17 +13,12 @@ const features = [
   },
   
   {
-    text: 'HYBRID',
-    icon: Wifi,
-  },
-  
-  {
     text: 'MODULAR',
     icon: Jamstack,
   },
 
   {
-    text: 'REALTIME AUTONOMOUS',
+    text: 'REALTIME-AUTONOMOUS',
     icon: Lighthouse,
   },
 
