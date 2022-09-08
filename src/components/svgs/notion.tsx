@@ -2,7 +2,7 @@ const Notion = (props: any) => (
   <svg
     viewBox="0 0 120 130"
     className="prefix__notionLogo"
-    display="block"
+    display="inline-block"
     fill="inherit"
     {...props}
   >

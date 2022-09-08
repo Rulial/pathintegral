@@ -55,13 +55,13 @@ export default function Footer() {
           </ExtLink>
           
         </span>
-
+<br />
          <div className={contactStyles.links}>
           {footer.map(({ Comp, link, alt }) => {
             return (
-              <ExtLink key={link} href={link} aria-label={alt}>
+              <a key={link} href={link} aria-label={alt}>
                 <Comp height={32} />
-              </ExtLink>
+              </a>
             )
           })}
         </div>
