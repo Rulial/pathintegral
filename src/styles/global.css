@@ -288,7 +288,7 @@ h2 {
   font-weight: 50;
   font-size: 0.85rem;
   letter-spacing: -0.02rem;
-  color: flex(--accents-3);
+  color: var(--accents-3);
   background: #000;
 }
 
