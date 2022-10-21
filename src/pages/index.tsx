@@ -13,8 +13,8 @@ export default function Index() {
       <div className={sharedStyles.layout}>
         
         <img
-          src="/metaverse02.png"
-          height="1080"
+          src="/metafow03.png"
+          height="689"
           width="1920"
           alt="metaverse"
         />
@@ -25,20 +25,7 @@ export default function Index() {
         </h2>
 
         <Features />
-
-    <img
-          src="/metafow03.png"
-          height="689"
-          width="1920"
-          alt="metaverse"
-        />
-
-        <div className="explanation">
-          
-            
-          <p>
-        ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL / ALL WORK AND NO PLAY MAKES JACK A DULL BOY / ALL WORK AND NO PLAY MAKES JILL A LAZY GIRL /
-          </p>
+                
         </div>
       </div>
     </>
