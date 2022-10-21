@@ -20,7 +20,7 @@ export default function Index() {
         />
       
         <h2>
-          A GAME THAT IS PLAYING ITSELF
+          a game that is playing itself
           
         </h2>
 
