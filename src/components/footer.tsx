@@ -49,9 +49,9 @@ export default function Footer() {
           />
         </ExtLink>
         <span> 
-          BUILDING {' '}
+          THE{' '}
           <ExtLink href="">
-           THE METAVERSE @ PATH INTEGRAL INC
+           METAVERSE @ PATH INTEGRAL INC
           </ExtLink>
           
         </span>
