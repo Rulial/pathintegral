@@ -18,11 +18,7 @@ export default function Index() {
           width="1920"
           alt="metaverse"
         />
-      
-        <h2>
-          a game that is playing itself
-          
-        </h2>
+        
 
         <Features />
                 
