@@ -49,7 +49,7 @@ export default function Footer() {
           />
         </ExtLink>
         <span> 
-          THE{' '}
+          {' '}
           <ExtLink href="">
            PATH INTEGRAL
           </ExtLink>
