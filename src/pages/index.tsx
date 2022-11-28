@@ -12,16 +12,21 @@ export default function Index() {
       
       <div className={sharedStyles.layout}>
         
-        <img
-          src="/metafow03.png"
-          height="689"
-          width="1920"
-          alt="metaverse"
+      <img
+          src="/metaverse02.png"
+          height="1024"
+          width="1024"
+          alt="made with midjourney"
         />
         
 
         <Features />
-                
+        <img
+          src="/metafow03.png"
+          height="689"
+          width="1920"
+          alt="PI01"
+        />
         </div>
       
     </>
