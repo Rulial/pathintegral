@@ -51,7 +51,7 @@ export default function Footer() {
         <span> 
           THE{' '}
           <ExtLink href="">
-           METAVERSE @ PATH INTEGRAL INC
+           PATH INTEGRAL
           </ExtLink>
           
         </span>
