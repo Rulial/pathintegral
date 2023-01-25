@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css'
 const navItems: { label: string; page?: string; link?: string }[] = [
   { label: 'PATH INTEGRAL', page: '/' },
   
-  { label: 'DOCS', link: 'https://docs.path-integral.com' },
+  { label: 'DOCS', link: 'https://pathintegral0.notion.site/PATH-INTEGRAL-6362babe30bf433f9ebdbf02aa7212e2' },
 ]
 
 const ogImageUrl = ''
