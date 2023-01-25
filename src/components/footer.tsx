@@ -27,11 +27,6 @@ const footer = [
     link: 'mailto:hello@path-integral.com?subject=metagame',
   },
 
-  {
-    Comp: Swumr,
-    alt: 'Swumr icon',
-    link: 'https://swumr.xyz',
-  },
   
 ]
 
