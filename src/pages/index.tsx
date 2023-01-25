@@ -21,12 +21,7 @@ export default function Index() {
         
 
         <Features />
-        <img
-          src="/metafow03.png"
-          height="689"
-          width="1920"
-          alt="PI01"
-        />
+  
         </div>
       
     </>

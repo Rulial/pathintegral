@@ -5,21 +5,17 @@ import Lighthouse from './svgs/lighthouse'
 import Plus from './svgs/plus'
 import Edit from './svgs/edit'
 import Scroll from './svgs/scroll'
+import agi from './svgs/agi'
 
 const features = [
   {
-    text: 'DECENTRALISED-AUTONOMY',
+    text: 'METAGAME',
     icon: Lightning,
-  },
-
- {
-    text: 'REALTIME',
-    icon: Lighthouse,
   },
   
   {
-    text: 'MODULAR',
-    icon: Jamstack,
+    text: 'AGI',
+    icon: agi,
   },
   
 ]
