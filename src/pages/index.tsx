@@ -13,7 +13,7 @@ export default function Index() {
       <div className={sharedStyles.layout}>
         
       <img
-          src="/ship_v01.jpeg"
+          src="/metaverse02.png"
           height="1024"
           width="1024"
           alt="made with midjourney"
