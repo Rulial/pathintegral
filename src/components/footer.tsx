@@ -37,7 +37,7 @@ export default function Footer() {
         <span></span>
         <ExtLink href="https://app.path-integral.com">
           <img
-            src="/Piw04_nodropshadow.png"
+            src="/Piw05.png"
             height={70}
             width={46}
             alt="building metaverse"
