@@ -14,7 +14,7 @@ export default function Index() {
       <div className={sharedStyles.layout}>
         
       <img
-          src="/mg_01.png"
+          src="/mg01.png"
           height="640"
           width="640"
           alt="made with midjourney"
