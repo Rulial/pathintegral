@@ -9,14 +9,14 @@ export default function Index() {
   return (
     <>
     
-    <Header titlePre="?" />
+    <Header />
       
       <div className={sharedStyles.layout}>
         
       <img
           src="/mg01.png"
-          height="1024"
-          width="1024"
+          height="560"
+          width="560"
           alt="made with midjourney"
         />
         
