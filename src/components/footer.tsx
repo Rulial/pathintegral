@@ -35,7 +35,7 @@ export default function Footer() {
     <>
       <footer>
         <span></span>
-        <ExtLink href="https://app.path-integral.com">
+        <ExtLink href="https://path-integral.com">
           <img
             src="/Piw05.png"
             height={70}
