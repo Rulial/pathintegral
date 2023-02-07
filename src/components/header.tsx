@@ -18,7 +18,7 @@ const Header = ({ titlePre = '' }) => {
   return (
     <header className={styles.header}>
       <Head>
-        <title>{titlePre ? `${titlePre} |` : ''} PATH INTEGRAL </title>
+        <title>{titlePre ? `${titlePre} |` : ''} PATH INTEGRAL? </title>
         <meta
           name="description"
           content="METAGAME FOR THE METAVERSE"
