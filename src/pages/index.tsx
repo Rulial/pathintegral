@@ -17,7 +17,7 @@ export default function Index() {
           src="/mg01.png"
           height="640"
           width="640"
-          alt="finally, a computer that asks questions."
+          alt="A?I"
         />
         
 
