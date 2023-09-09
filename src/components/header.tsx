@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css'
 const navItems: { label: string; page?: string; link?: string }[] = [
  // { label: 'PATH INTEGRAL', page: '/' },
   
-  { label: 'Pre Seed Raise', link: 'https://pathintegral0.notion.site/Pre-Seed-Raise-f538ee0d88a44ed8ab2130cf692084bd' },
+  { label: 'VENTURES', link: 'https://www.notion.so/pathintegral0/Ventures-f538ee0d88a44ed8ab2130cf692084bd?pvs=4' },
 ]
 
 const ogImageUrl = ''
@@ -18,12 +18,12 @@ const Header = ({ titlePre = '' }) => {
   return (
     <header className={styles.header}>
       <Head>
-        <title>{titlePre ? `${titlePre} |` : ''} PATH INTEGRAL? </title>
+        <title>{titlePre ? `${titlePre} |` : ''} PI? </title>
         <meta
           name="description"
           content="METAGAME FOR THE METAVERSE"
         />
-        <meta name="og:title" content="FUTURE OF WORK" />
+        <meta name="og:title" content="A?I" />
         <meta property="og:image" content={ogImageUrl} />
         <meta name="twitter:site" content="@pathintegral0" />
         <meta name="twitter:card" content="summary_large_image" />
