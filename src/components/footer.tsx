@@ -38,7 +38,7 @@ export default function Footer() {
           <img
             src="/Imagine.jpeg"
             height={70}
-            width={46}
+            width={70}
             alt="imagination"
           />
         </ExtLink>
