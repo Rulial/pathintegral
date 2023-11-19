@@ -3,13 +3,13 @@ import ExtLink from './ext-link'
 import contactStyles from '../styles/contact.module.css'
 
 
-import Twitter from '../components/svgs/twitter'
+import Xicon from '../components/svgs/Xicon'
 import Envelope from '../components/svgs/envelope'
 import Notion from '../components/svgs/notion'
 
 const footer = [
   {
-    Comp: Twitter,
+    Comp: Xicon,
     alt: 'twitter icon',
     link: 'https://twitter.com/pathintegral0',
   },
