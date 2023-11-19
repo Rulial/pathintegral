@@ -14,7 +14,7 @@ export default function Index() {
       <div className={sharedStyles.layout}>
         
       <img
-          src="/"
+          src="/mg01.png"
           height="640"
           width="640"
           alt="A?I"
