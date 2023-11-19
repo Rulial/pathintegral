@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css'
 const navItems: { label: string; page?: string; link?: string }[] = [
  // { label: 'PATH INTEGRAL', page: '/' },
   
-  { label: 'VENTURES', link: 'https://www.notion.so/pathintegral0/Ventures-f538ee0d88a44ed8ab2130cf692084bd?pvs=4' },
+  { label: 'CLICK ON THE IMAGES TO SURF'},
 ]
 
 const ogImageUrl = ''
