@@ -6,7 +6,6 @@ import contactStyles from '../styles/contact.module.css'
 import Xicon from '../components/svgs/Xicon'
 import Envelope from '../components/svgs/envelope'
 import Notion from '../components/svgs/notion'
-import Swumr from '../components/svgs/swumr'
 
 const footer = [
   {
