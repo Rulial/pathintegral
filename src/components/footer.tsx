@@ -34,12 +34,12 @@ export default function Footer() {
     <>
       <footer>
         <span></span>
-        <ExtLink href="https://path-integral.com">
+        <ExtLink href="https://pathintegral0.notion.site/Research-Projects-58244eb0202446e7968187b287ec7afe?pvs=4">
           <img
-            src="/Piw05.png"
+            src="/Imagine.jpeg"
             height={70}
             width={46}
-            alt="building metaverse"
+            alt="imagination>0"
           />
         </ExtLink>
         <span> 
