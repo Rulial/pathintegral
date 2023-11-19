@@ -1,4 +1,4 @@
-const Xicon = (props) => (
+/* const Xicon = (props) => (
   <svg
     id="svg5"
     xmlns:svg="http://www.w3.org/2000/svg"
@@ -6,7 +6,7 @@ const Xicon = (props) => (
     xmlnsXlink="http://www.w3.org/1999/xlink"
     x="0px"
     y="0px"
-    //viewBox="0 0 1668.56 1221.19"
+    viewBox="0 0 1668.56 1221.19"
     style={{
       enableBackground: "new 0 0 1668.56 1221.19",
     }}
