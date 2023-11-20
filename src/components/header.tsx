@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css'
 const navItems: { label: string; page?: string; link?: string }[] = [
  // { label: 'PATH INTEGRAL', page: '/' },
   
-  { label: 'CLICK ON THE IMAGES TO SURF'},
+  { label: 'IMAGINATION > 0'},
 ]
 
 const ogImageUrl = ''
@@ -21,7 +21,7 @@ const Header = ({ titlePre = '' }) => {
         <title>{titlePre ? `${titlePre} |` : ''} PI? </title>
         <meta
           name="description"
-          content="METAGAME FOR THE METAVERSE"
+          content="Metagame of AI"
         />
         <meta name="og:title" content="A?I" />
         <meta property="og:image" content={ogImageUrl} />
