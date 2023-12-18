@@ -26,7 +26,7 @@ const contacts = [
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:hello@path-integral.com?subject=metagame',
+    link: 'mailto:hello@path-integral.com?subject=PI',
   },
 
   {
