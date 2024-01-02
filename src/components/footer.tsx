@@ -34,14 +34,7 @@ export default function Footer() {
     <>
       <footer>
         <span></span>
-        <ExtLink href="https://pathintegral0.notion.site/Research-Projects-58244eb0202446e7968187b287ec7afe?pvs=4">
-          <img
-            src="/"
-            height={70}
-            width={70}
-            alt="imagination"
-          />
-        </ExtLink>
+        
         <span> 
           {' '}
           <ExtLink href="">
