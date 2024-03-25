@@ -5,6 +5,8 @@ import Features from '../components/features'
 import sharedStyles from '../styles/shared.module.css'
 import Image from 'next/image'
 
+// this website is a massively redacted version of https://github.com/ijjk/notion-blog--> thank you.
+
 export default function Index() {
   return (
     <>
