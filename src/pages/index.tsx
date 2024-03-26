@@ -1,32 +1,28 @@
-import type { NextPage } from 'next'
-import Header from '../components/header'
-import ExtLink from '../components/ext-link'
-import Features from '../components/features'
-import sharedStyles from '../styles/shared.module.css'
-import Image from 'next/image'
+
+
+import Header from '../components/header';
+import sharedStyles from '../styles/shared.module.css';
+import Link from 'next/link'; // Import Link from Next.js
+import React from 'react';
 
 // this website is a massively redacted version of https://github.com/ijjk/notion-blog--> thank you.
 
 export default function Index() {
   return (
     <>
-    
-    <Header />
+      <Header />
       
       <div className={sharedStyles.layout}>
-        <a href="https://pathintegral0.notion.site/Ventures-f538ee0d88a44ed8ab2130cf692084bd?pvs=4">
-      <img
+        {/* Use Next.js's Link component for internal navigation */}
+        <Link href="/Debrief">
+        <img
           src="/Imagine.jpeg"
           height="640"
           width="640"
           alt="A?I"
         />
-        </a>
-
-      
-  
-        </div>
-      
+        </Link>
+      </div>
     </>
   )
 }

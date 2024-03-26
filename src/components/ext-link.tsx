@@ -1,3 +1,6 @@
+import React from 'react';
+
+// Your component code here
 
 
 function ExtLink(props: any): JSX.Element {

@@ -1,5 +1,8 @@
 import dynamic from 'next/dynamic'
 import ExtLink from './ext-link'
+import React from 'react';
+
+// Your component code here
 
 export default {
   // default tags

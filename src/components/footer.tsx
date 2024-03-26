@@ -1,6 +1,9 @@
 import ExtLink from './ext-link'
 
 import contactStyles from '../styles/contact.module.css'
+import React from 'react';
+
+// Your component code here
 
 
 import Xicon from '../components/svgs/Xicon'

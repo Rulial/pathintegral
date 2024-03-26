@@ -1,3 +1,9 @@
+
+import React from 'react';
+
+// Your component code here
+
+
 const Notion = (props: any) => (
   <svg
     viewBox="0 0 120 130"
