@@ -15,12 +15,11 @@ export default function Index() {
     
     <Header />
       
-      
 
         <div className={sharedStyles.layout}>
           <a href="https://pathintegral0.notion.site/Ventures-f538ee0d88a44ed8ab2130cf692084bd?pvs=4">
         <img
-            src="/Debrief3.png"
+            src="/Debrief4.png"
             height="640"
             width="640"
             alt="A?I"
