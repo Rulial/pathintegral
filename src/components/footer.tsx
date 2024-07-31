@@ -20,7 +20,7 @@ const footer = [
   {
     Comp: Notion,
     alt: 'notion icon',
-    link: 'https://pathintegral0.notion.site/PATH-INTEGRAL-6362babe30bf433f9ebdbf02aa7212e2',
+    link: 'https://pathintegral0.notion.site/Research-Projects-Book-looking-for-a-publisher-37f3278037064ae1848dcfd71cfd5e26',
   },
   
   {
