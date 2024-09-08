@@ -17,7 +17,7 @@ export default function Index() {
       
 
         <div className={sharedStyles.layout}>
-          <a href="https://www.notion.so/pathintegral0/Ventures-AI-Native-Game-Engine-c5a81bf33c234b079538f110c1a154ba?pvs=4">
+          <a href="https://pathintegral0.notion.site/PATH-INTEGRAL-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=4">
         <img
             src="/Debrief4.png"
             height="640"

@@ -20,7 +20,7 @@ const footer = [
   {
     Comp: Notion,
     alt: 'notion icon',
-    link: 'https://pathintegral0.notion.site/PATH-INTEGRAL-f022dfeb09534d4d98995e1a219891bc?pvs=4',
+    link: 'https://pathintegral0.notion.site/PATH-INTEGRAL-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=4',
   },
   
   {
