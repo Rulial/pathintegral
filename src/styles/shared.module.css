@@ -9,3 +9,22 @@
 .layout h2 {
   text-align: center;
 }
+
+.layout p {
+  text-align: center;
+  text-wrap: balance;
+  max-width: auto;
+  max-height: auto;
+  border: 0px transparent; /* Adds a bounding box */ 
+  padding: 15px; /* Adds padding around the text */
+  color: #006400; /* irish green */
+}
+
+.layout a {
+  margin: auto;
+  display: block;
+  height: auto;
+  width: auto;
+  text-align: center;
+  box-align: center;
+}

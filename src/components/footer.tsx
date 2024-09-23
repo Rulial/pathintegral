@@ -9,6 +9,11 @@ import React from 'react';
 import Xicon from '../components/svgs/Xicon'
 import Envelope from '../components/svgs/envelope'
 import Notion from '../components/svgs/notion'
+import Substack from '../components/svgs/substack'
+import Instagram from '../components/svgs/instagram'
+import Signal from '../components/svgs/signal'
+import Bluesky from '../components/svgs/bluesky'
+
 
 const footer = [
   {
@@ -20,31 +25,54 @@ const footer = [
   {
     Comp: Notion,
     alt: 'notion icon',
-    link: 'https://pathintegral0.notion.site/PATH-INTEGRAL-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=4',
+    link: 'https://pathintegral0.notion.site/Path-Integral-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=25',
   },
   
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:hello@path-integral.com?subject=metagame',
+    link: 'mailto:hello@path-integral.com?subject=AI Native Game Engine',
+  },
+
+  {
+    Comp: Substack,
+    alt: 'substack icon',
+    link: 'https://pathintegral.substack.com/',
+  },
+
+  {
+    Comp: Instagram,
+    alt: 'instagram icon',
+    link: 'https://instagram.com/pathintegral0',
+  },
+
+  {
+    Comp: Signal,
+    alt: 'signal icon',
+    link: 'https://signal.me/#eu/T1Y9fQNYp2vuX-WuyfmYDYdLbTZlXLjLQVnddtQtUivXYubqlvhPv6Vh-5KIMiUe',
   },
 
   
+  {
+    Comp: Bluesky,
+    alt: 'bluesky icon',
+    link: 'https://bsky.app/profile/pathintegral.bsky.social',
+  },
+
+
 ]
 
 export default function Footer() {
   return (
     <>
       <footer>
-        <span></span>
+        <span>
+          <text> Do read the FAQ on Notion.
+            </text> 
+            </span>
         
-        <span> 
-          {' '}
-          <ExtLink href="">
-           
-          </ExtLink>
-          
-        </span>
+      
+<br />
 <br />
          <div className={contactStyles.links}>
           {footer.map(({ Comp, link, alt }) => {
@@ -55,6 +83,14 @@ export default function Footer() {
             )
           })}
         </div>
+        <br />
+        <span> 
+          {'©️Path Integral 2024-2025.'}
+          <ExtLink href="https://pathintegral0.notion.site/Privacy-Policy-1ee06e48617541d99aee889d0f57f8dd?pvs=25">
+           <text> Privacy Policy. 🗽 </text>
+          </ExtLink>
+          
+        </span>
       </footer>
     </>
   )

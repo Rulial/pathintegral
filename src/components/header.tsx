@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css';
 import React from 'react';
 
 const navItems = [
-  { label: 'IMAGINATION > 0', link: 'https://path-integral.com' }, // Add a 'page' property here
+  { label: 'Click to Start-->', link: 'https://pathintegral0.notion.site/SURFBOARD-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=24' }, // Add a 'page' property here
 ];
 
 const ogImageUrl = '';
@@ -18,17 +18,14 @@ const Header = () => {
   return (
     <header className={styles.header}>
       <Head>
-        <title>PI? </title>
+        <title>AI Native Game Engine </title>
         <meta
           name="description"
-          content="ANNA"
+          content="ANNA+SOLO"
         />
 
-        <meta name="og:title" content="A?I" />
-        <meta property="og:image" content={ogImageUrl} />
-        <meta name="twitter:site" content="@pathintegral0" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content={ogImageUrl} />
+        <meta name="og:title" content="imagintion>0" />
+       
       </Head>
 
       <ul>
