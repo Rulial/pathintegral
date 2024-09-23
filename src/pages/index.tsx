@@ -20,8 +20,8 @@ export default function Index() {
           <br />
           <br />
 
-          <p> This is an unregistered venture <br /> raising U$D 1 Million at PRE SEED stage 
-            <br /> of building AI NATIVE GAME ENGINE.
+          <p> This is an unregistered venture <br /> raising a PRE SEED round 
+            <br /> for building AI NATIVE GAME ENGINE.
         </p>
         
       </div>
