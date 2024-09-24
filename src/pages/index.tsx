@@ -14,14 +14,14 @@ export default function Index() {
         <div className={sharedStyles.layout}>
         
           <a href="mailto:rohitb@path-integral.com?subject=AI Native Game Engine">
-            <Io text= "Click To Start" color="#9370DB" />
+            <Io text= "Click To Start" color="#FF00FF" />
           </a>
 
           <br />
           <br />
 
-          <p> This is an unregistered venture <br /> raising a PRE SEED round 
-            <br /> for building AI NATIVE GAME ENGINE.
+          <p> This is an unregistered venture <br /> raising a <span style={{ color: "#DAA520" }}>PRE SEED</span> round 
+            <br /> for building <span style={{ color: "#191970" }}>AI NATIVE GAME ENGINE.</span>
         </p>
         
       </div>
