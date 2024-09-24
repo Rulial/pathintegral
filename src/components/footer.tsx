@@ -74,8 +74,6 @@ export default function Footer() {
             </span>
         
       
-<br />
-<br />
          <div className={contactStyles.links}>
           {footer.map(({ Comp, link, alt }) => {
             return (
