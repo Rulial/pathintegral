@@ -21,7 +21,7 @@ const Io: React.FC<{ text?: string; color?: string }> = ({ text = 'Default Text'
           <path d="M14.795 17.652c1.576 0 1.736-.931 1.736-2.076V2.08c0-1.148-.16-2.08-1.736-2.08-1.57 0-1.732.932-1.732 2.08v13.496c-.001 1.146.162 2.076 1.732 2.076z"></path>
         </g>
       </svg>
-      <p style={{ marginTop: 10, color }}>{text || 'Default Text'}</p> </div>
+      <p style={{ marginTop: 10, color, backgroundColor: "#F0F0F0", padding: "2px", borderRadius: "2px"  }}>{text || 'Default Text'}</p> </div>
   );
 };
 
