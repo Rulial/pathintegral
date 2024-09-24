@@ -14,7 +14,7 @@ export default function Index() {
         <div className={sharedStyles.layout}>
         
           <a href="mailto:rohitb@path-integral.com?subject=AI Native Game Engine">
-            <Io text= "Click To Start" color="#FF00FF" />
+            <Io text= "Click To Start" color="#DA70D6" />
           </a>
 
           <br />
