@@ -20,9 +20,12 @@ export default function Index() {
           <br />
           <br />
 
-          <p> This is an unregistered venture <br /> raising a <span style={{ color: "#DAA520" }}>PRE SEED</span> round 
-            <br /> for building <span style={{ color: "#191970" }}>AI NATIVE GAME ENGINE.</span>
-        </p>
+          <p>
+  This is an unregistered venture <br />
+  raising a <span style={{ color: "#DAA520", backgroundColor: "#F0F0F0", padding: "2px", borderRadius: "2px" }}>PRE SEED</span> round
+  <br />
+  for building <span style={{ color: "#191970", backgroundColor: "#F0F0F0", padding: "2px", borderRadius: "2px" }}>AI NATIVE GAME ENGINE.</span>
+</p>
         
       </div>
       
