@@ -13,8 +13,8 @@ export default function Index() {
 
         <div className={sharedStyles.layout}>
         
-          <a href="mailto:rohitb@path-integral.com">
-            <Io />
+          <a href="mailto:rohitb@path-integral.com?subject=AI Native Game Engine">
+            <Io text= "Click To Start" color="#9370DB" />
           </a>
 
           <br />

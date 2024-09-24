@@ -13,12 +13,14 @@ import Substack from '../components/svgs/substack'
 import Instagram from '../components/svgs/instagram'
 import Signal from '../components/svgs/signal'
 import Bluesky from '../components/svgs/bluesky'
+import FAQicon from '../components/svgs/Faq'
 
 
 const footer = [
   {
     Comp: Xicon,
     alt: 'twitter icon',
+    size: 40,
     link: 'https://twitter.com/pathintegral0',
   },
   
@@ -29,9 +31,9 @@ const footer = [
   },
   
   {
-    Comp: Envelope,
-    alt: 'envelope icon',
-    link: 'mailto:hello@path-integral.com?subject=AI Native Game Engine',
+    Comp: FAQicon,
+    alt: 'FAQ icon',
+    link: 'https://www.notion.so/pathintegral0/Path-Integral-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4#ed09f44607894d988c39d3c37c3a593f',
   },
 
   {
@@ -67,7 +69,7 @@ export default function Footer() {
     <>
       <footer>
         <span>
-          <text> Do read the FAQ on Notion.
+          <text> 
             </text> 
             </span>
         
@@ -85,9 +87,9 @@ export default function Footer() {
         </div>
         <br />
         <span> 
-          {'©️Path Integral 2024-2025.'}
+          {'©️Path Integral 2024-2025 🗽'}
           <ExtLink href="https://pathintegral0.notion.site/Privacy-Policy-1ee06e48617541d99aee889d0f57f8dd?pvs=25">
-           <text> Privacy Policy. 🗽 </text>
+           <br /> <text> Privacy Policy. </text>
           </ExtLink>
           
         </span>

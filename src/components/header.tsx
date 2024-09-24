@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css';
 import React from 'react';
 
 const navItems = [
-  { label: 'Click to Start-->', link: 'https://pathintegral0.notion.site/SURFBOARD-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=24' }, // Add a 'page' property here
+  { label: 'SURFBOARD/', link: 'https://pathintegral0.notion.site/SURFBOARD-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=24' }, // Add a 'page' property here
 ];
 
 const ogImageUrl = '';
