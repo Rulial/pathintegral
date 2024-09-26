@@ -4,7 +4,7 @@ import React from 'react';
 // Your component code here
 
 
-const Xicon = (props: any) => (
+const Xicono = (props: any) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 1668.56 1221.19"
@@ -34,4 +34,4 @@ const Xicon = (props: any) => (
   </svg>
 )
 
-export default Xicon
+export default Xicono
