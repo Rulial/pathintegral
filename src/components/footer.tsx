@@ -27,7 +27,7 @@ const footer = [
   {
     Comp: FAQicon,
     alt: 'FAQ icon',
-    link: 'https://www.notion.so/pathintegral0/Path-Integral-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4#ed09f44607894d988c39d3c37c3a593f',
+    link: 'https://pathintegral0.notion.site/ANNA-SOLO-FAQ-ed09f44607894d988c39d3c37c3a593f?pvs=4',
   },
 
   {
