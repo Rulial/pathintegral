@@ -5,7 +5,6 @@ import React from 'react';
 
 // Your component code here
 
-
 import Xicon from '../components/svgs/Xicon'
 import Envelope from '../components/svgs/envelope'
 import Notion from '../components/svgs/notion'
