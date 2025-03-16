@@ -33,7 +33,7 @@ const footer = [
   {
     Comp: Xicon,
     alt: 'twitter icon',
-    size: 40,
+    size: 42,
     link: 'https://twitter.com/pathintegral23',
   },
 
