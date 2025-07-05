@@ -13,7 +13,7 @@ import Instagram from '../components/svgs/instagram'
 import Signal from '../components/svgs/signal'
 import Bluesky from '../components/svgs/bluesky'
 import FAQicon from '../components/svgs/Faq'
-import thread from '../components/svgs/threads'
+import Thread from '../components/svgs/threads'
 
 const footer = [
   
@@ -48,7 +48,7 @@ const footer = [
   },
 
   {
-    Comp: thread,
+    Comp: Thread,
     alt: 'thread icon',
     link: 'https://www.threads.com/@pathintegral0',
   },
