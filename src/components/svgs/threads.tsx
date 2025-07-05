@@ -7,7 +7,7 @@ const Thread = (props: any) => (
     xmlns="http://www.w3.org/2000/svg"
     width="37"
     height="37"
-    fill="FFF00"
+    fill="#FFF00"
     className="threads"
     viewBox="0 0 11 16"
   >
