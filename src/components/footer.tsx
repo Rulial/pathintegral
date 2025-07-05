@@ -42,17 +42,16 @@ const footer = [
   },
 
   {
-    Comp: Instagram,
-    alt: 'instagram icon',
-    link: 'https://instagram.com/pathintegral0',
-  },
-
-  {
     Comp: Thread,
     alt: 'thread icon',
     link: 'https://www.threads.com/@pathintegral0',
   },
 
+  {
+    Comp: Instagram,
+    alt: 'instagram icon',
+    link: 'https://instagram.com/pathintegral0',
+  },
   
   {
     Comp: Bluesky,
