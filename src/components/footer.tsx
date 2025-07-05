@@ -13,7 +13,7 @@ import Instagram from '../components/svgs/instagram'
 import Signal from '../components/svgs/signal'
 import Bluesky from '../components/svgs/bluesky'
 import FAQicon from '../components/svgs/Faq'
-import thread from '../components/svgs/thread'
+import thread from '../components/svgs/threads'
 
 const footer = [
   
