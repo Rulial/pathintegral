@@ -1,4 +1,4 @@
-import * as React from "react";
+import react from "react";
 
 const thread = (props) => (
   <svg
@@ -13,5 +13,5 @@ const thread = (props) => (
   </svg>
 );
 
-export default thread;
+export default Thread;
 
