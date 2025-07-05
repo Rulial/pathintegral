@@ -22,6 +22,12 @@ const footer = [
     alt: 'notion icon',
     link: 'https://pathintegral0.notion.site/Path-Integral-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=25',
   },
+
+   {
+    Comp: Thread,
+    alt: 'thread icon',
+    link: 'https://www.threads.com/@pathintegral0',
+  },
   
   {
     Comp: FAQicon,
@@ -39,13 +45,6 @@ const footer = [
     Comp: Substack,
     alt: 'substack icon',
     link: 'https://pathintegral.substack.com/',
-  },
-
-  
-  {
-    Comp: Thread,
-    alt: 'thread icon',
-    link: 'https://www.threads.com/@pathintegral0',
   },
 
   {
