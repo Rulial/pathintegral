@@ -48,9 +48,9 @@ const footer = [
   },
 
   {
-    Comp: Signal,
-    alt: 'signal icon',
-    link: 'https://signal.me/#eu/T1Y9fQNYp2vuX-WuyfmYDYdLbTZlXLjLQVnddtQtUivXYubqlvhPv6Vh-5KIMiUe',
+    Comp: Threads,
+    alt: 'thread icon',
+    link: 'https://www.threads.com/@pathintegral0',
   },
 
   
@@ -84,7 +84,7 @@ export default function Footer() {
         </div>
         <br />
         <span> 
-          {'©️Path Integral 2024-2025 🗽'}
+          {'©️ Path Integral 2025 🗽'}
           <ExtLink href="https://pathintegral0.notion.site/Privacy-Policy-1ee06e48617541d99aee889d0f57f8dd?pvs=25">
            <br /> <text> Privacy Policy. </text>
           </ExtLink>
