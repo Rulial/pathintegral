@@ -41,6 +41,7 @@ const footer = [
     link: 'https://pathintegral.substack.com/',
   },
 
+  
   {
     Comp: Thread,
     alt: 'thread icon',
