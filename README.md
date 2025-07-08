@@ -5,7 +5,7 @@
 ANNA + SOLO will be the Next Generation of AI Native Personal/ Wearable Computer.
 + a video game 🎮 version of 🍦THE GRAND LOOP, a book I am writing.
 + It’ll be used for experimentation, and initial revenue generation.
-
+Numbers + terms to be discussed and agreed—> rohitb@path-integral.com
 
 
 
@@ -13,7 +13,7 @@ ANNA + SOLO will be the Next Generation of AI Native Personal/ Wearable Computer
 This is not a crowd funding campaign.
 
 Do read the below FAQ for details about everything including an open source version. 
-Numbers + terms to be discussed and agreed—> rohitb@path-integral.com
+
 
 
 
@@ -22,3 +22,7 @@ Numbers + terms to be discussed and agreed—> rohitb@path-integral.com
 ![tweet2](public/images/IMG_tweet2.jpeg)
 ![tweet3](public/images/IMG_tweet3.jpeg)
 
+
+
++
++
