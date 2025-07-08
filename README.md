@@ -4,7 +4,7 @@
 
 ## ANNA—> AI Native Game Engine.
 
-SOLO—> Head Band. At first, we’ll only be building a prototype for testing which might later evolve into a consumer device.
+### SOLO—> Head Band. At first, we’ll only be building a prototype for testing which might later evolve into a consumer device.
 
 ANNA + SOLO will be the Next Generation of AI Native Personal/ Wearable Computer.
 
