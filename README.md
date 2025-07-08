@@ -11,4 +11,4 @@ ANNA + SOLO will be the Next Generation of AI Native Personal/ Wearable Computer
 
 This is not a crowd funding campaign.
 
-== Do read the below FAQ for details about everything including an open source version. Numbers + terms to be discussed and agreed—> rohitb@path-integral.com ==
+Do read the below FAQ for details about everything including an open source version. Numbers + terms to be discussed and agreed—> rohitb@path-integral.com
