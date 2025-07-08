@@ -19,7 +19,7 @@ Do read the below FAQ for details about everything including an open source vers
 
 
 [Eventual Pivot](https://pitch.com/embed/c73ccbca-4274-47f7-8999-768e887db86a)
-Read more on various social media account.
+(Read more on various social media account.)
 ![tweet23](public/images/IMG_tweet23.jpeg)
 
 
