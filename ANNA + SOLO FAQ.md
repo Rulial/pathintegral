@@ -14,7 +14,7 @@ This is an **AI Native tech Startup**, and not a research or gaming company.
 
 Expect transparent communication with constant updates of practical progress if you engage and invest.
 
-Feel free to ask your own questions directly via rohitb@path-integral.com or social media. This is where I try to feel important by asking all these questions of myself based on general feedback collected from the internet. You’re welcome.
+Feel free to ask your own questions directly via hello@path-integral.com or social media. This is where I try to feel important by asking all these questions of myself based on general feedback collected from the internet. You’re welcome.
 
 FAQ has no sarcasm.
 
