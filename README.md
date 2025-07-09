@@ -25,4 +25,4 @@ This is not a crowd funding campaign.
 > [Accelarate by start reading this FAQ](https://github.com/Rulial/pathintegral/blob/d1a80bdcefc3ceeedc676c7f9f41bb025e54bea6/ANNA%20%2B%20SOLO%20FAQ.md)
 
 > This github project is only a landing page for this organisation. </br>
-> The actual project won't be posted here, though we shall be open sourcing the governing systems build on AI Native.
+> The actual project won't be shared here, though we shall be open sourcing the governing systems built on AI Native.
