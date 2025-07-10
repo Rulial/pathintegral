@@ -1,8 +1,8 @@
 <img src="public/FAQ_project/flyingsaucer.png"
   style= "width: 47%;"> 
 # <img src="public/FAQ_project/21.svg" width="44" /> Actively Raising U$D 1 Million Pre Seed
-## <img src="public/IMAGINATION_0PI0Large.png" style= "width: 5%"> </img> ANNA—> Artificial Intelligence Native Game Engine.
-### SOLO—> Head Band. At first, we’ll only be building a prototype for testing which shall later evolve into a consumer device.
+### <img src="public/FAQ_project/IMAGINATION_0.svg" style= "width: 5%"> </img> ANNA—> Artificial Intelligence Native Operating Engine.
+### 🧠 SOLO—> Head Band. At first, we’ll only be building a prototype for testing which shall later evolve into a consumer device.
 ##### ♥️ BUILD WITH LOVE.
 > :bulb: ANNA + SOLO will be the Next Generation of AI Native Personal/ Wearable Computer.
 A video game 🎮 version of 🍦THE GRAND LOOP, a book I am writing.
