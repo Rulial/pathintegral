@@ -5,7 +5,7 @@
 ### 🧠 SOLO—> Head Band. At first, we’ll only be building a prototype for testing which shall later evolve into a consumer device.
 ##### ♥️ BUILD WITH LOVE. 
 ### :bulb: ANNA + SOLO will be the Next Generation of AI Native Personal/ Wearable Computer.
-[![tweet23](public/images/IMG_tweet23.jpeg)](https://www.threads.com/@pathintegral0)
+[![tweet23](public/FAQ_project/tweet23.png)](https://www.threads.com/@pathintegral0)
 
 
 
