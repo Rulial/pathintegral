@@ -1,5 +1,5 @@
-<img src="public/FAQ_project/flyingsaucer.png"
-  style= "width: 47%;"> 
+<img src="public/FAQ_project/flyingsaucer_github.jpg"
+  style= "width: 100%;"> 
 # <img src="public/FAQ_project/21.svg" width="44" /> Actively Raising U$D 1 Million Pre Seed
 ### <img src="public/FAQ_project/IMAGINATION_0.svg" style= "width: 5%"> </img> ANNA—> Artificial Intelligence Native Operating Engine.
 ### 🧠 SOLO—> Head Band. At first, we’ll only be building a prototype for testing which shall later evolve into a consumer device.
