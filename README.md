@@ -22,7 +22,7 @@
 ##### ⚡ We are ready to start immediately in 2025.
 ###### ✉️ Contact at--> hello@path-integral.com or on any of the social media.
 ##### :video_game: A video game version of 🍦THE GRAND LOOP will be developed as a side project.
-▶️ [Accelarate by start reading this FAQ](https://github.com/Rulial/pathintegral/blob/d1a80bdcefc3ceeedc676c7f9f41bb025e54bea6/ANNA%20%2B%20SOLO%20FAQ.md) </br>
+🚀 [Accelarate by start reading this FAQ](https://github.com/Rulial/pathintegral/blob/d1a80bdcefc3ceeedc676c7f9f41bb025e54bea6/ANNA%20%2B%20SOLO%20FAQ.md) </br>
 🪙 This is not a crowd funding campaign. </br>
 ☀️ This github project is only a landing page for this organisation. </br>
 🔗 The actual project won't be shared here, though we shall be open sourcing the governing systems built on AI Native.
