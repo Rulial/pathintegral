@@ -1,4 +1,4 @@
-<img src="public/FAQ_project/flyingsaucer_github.jpg"
+<img src="public/images/PathIntegralLogoA1.png"
   style= "width: 100%;"> 
 # <img src="public/FAQ_project/21.svg" width="44" /> Actively Raising U$D 1 Million Pre Seed
 ### <img src="public/FAQ_project/IMAGINATION_0.svg" style= "width: 5%"> </img> ANNA—> Artificial Intelligence Native Operating Engine.
