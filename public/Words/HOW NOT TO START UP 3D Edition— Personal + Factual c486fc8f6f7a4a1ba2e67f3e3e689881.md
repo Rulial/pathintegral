@@ -3,7 +3,7 @@
 Tags: Blog
 Number: 14
 
-[[SURFBOARD](https://path-integral.com)](../../../../SURFBOARD%209ac7252efb2a4b43a7411fc26f5d1a50.md) 
+[[SURFBOARD](https://path-integral.com)]
 
 *This is not a “think piece” and only briefly stating facts.*
 
