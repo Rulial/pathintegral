@@ -13,7 +13,7 @@ export default function Index() {
 
         <div className={sharedStyles.layout}>
         
-          <a href="mailto:rohitb@path-integral.com?subject=AI Native Game Engine-Funding Secured!">
+          <a href="mailto:rohitb@path-integral.com?subject=AI Native Operating Engine-Funding Secured!">
             <Logo />
           </a>
 
@@ -24,7 +24,7 @@ export default function Index() {
   This is an unregistered venture <br />
   raising a <span style={{ color: "#DAA520", backgroundColor: "#F0F0F0", padding: "2px", borderRadius: "2px" }}>PRE SEED</span> round
   <br />
-  for building <span style={{ color: "#191970", backgroundColor: "#F0F0F0", padding: "2px", borderRadius: "2px" }}>AI NATIVE GAME ENGINE.</span>
+  for building <span style={{ color: "#191970", backgroundColor: "#F0F0F0", padding: "2px", borderRadius: "2px" }}>AI NATIVE OPERATING ENGINE.</span>
 </p>
         
       </div>

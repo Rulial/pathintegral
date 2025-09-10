@@ -17,11 +17,11 @@ import Thread from '../components/svgs/threads'
 
 const footer = [
   
-  {
+ /* {
     Comp: Notion,
     alt: 'notion icon',
     link: 'https://pathintegral0.notion.site/Path-Integral-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=25',
-  },
+  }, */
 
    {
     Comp: Thread,
@@ -32,7 +32,7 @@ const footer = [
   {
     Comp: FAQicon,
     alt: 'FAQ icon',
-    link: 'https://pathintegral0.notion.site/ANNA-SOLO-FAQ-ed09f44607894d988c39d3c37c3a593f?pvs=4',
+    link: 'https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE',
   },
 
   {
@@ -41,11 +41,11 @@ const footer = [
     link: 'https://twitter.com/pathintegral23',
   },
 
-  {
+/*  {
     Comp: Substack,
     alt: 'substack icon',
     link: 'https://pathintegral.substack.com/',
-  },
+  }, */
 
   {
     Comp: Instagram,
@@ -53,11 +53,11 @@ const footer = [
     link: 'https://instagram.com/pathintegral0',
   },
   
-  {
+  /* {
     Comp: Bluesky,
     alt: 'bluesky icon',
     link: 'https://bsky.app/profile/pathintegral.bsky.social',
-  },
+  }, */
 
 
 ]
