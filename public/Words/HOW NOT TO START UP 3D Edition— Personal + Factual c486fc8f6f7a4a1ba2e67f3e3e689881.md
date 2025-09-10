@@ -3,7 +3,7 @@
 Tags: Blog
 Number: 14
 
-[[SURFBOARD](https://path-integral.com)]
+
 
 *This is not a “think piece” and only briefly stating facts.*
 
