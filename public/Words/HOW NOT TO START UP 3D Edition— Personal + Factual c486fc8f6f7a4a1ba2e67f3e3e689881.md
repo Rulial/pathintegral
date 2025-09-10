@@ -1,4 +1,4 @@
-# HOW NOT TO START UP? 3D Edition—> Personal + Factual
+# HOW NOT TO START UP? Multidimensional Edition—> Personal + Factual
 
 Tags: Blog
 Number: 14
