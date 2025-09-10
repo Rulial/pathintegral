@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css';
 import React from 'react';
 
 const navItems = [
-  { label: 'SURFBOARD/', link: 'https://pathintegral0.notion.site/SURFBOARD-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=24' }, // Add a 'page' property here
+  { label: '', link: 'https://pathintegral0.notion.site/SURFBOARD-9ac7252efb2a4b43a7411fc26f5d1a50?pvs=24' }, // Add a 'page' property here
 ];
 
 const ogImageUrl = '';
@@ -18,7 +18,7 @@ const Header = () => {
   return (
     <header className={styles.header}>
       <Head>
-        <title>AI Native Game Engine </title>
+        <title>AI Native Operating Engine </title>
         <meta
           name="description"
           content="ANNA+SOLO"
