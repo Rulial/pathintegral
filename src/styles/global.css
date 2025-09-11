@@ -276,7 +276,7 @@ mark {
 }
 
 .logo :global(svg) {
-  width: 100%;
+  width: 66%;
   display: block;
   margin: 0 auto;
 }
