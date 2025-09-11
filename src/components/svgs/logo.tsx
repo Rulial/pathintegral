@@ -7,13 +7,12 @@ import React from 'react';
   const Logo: React.FC<{ text?: string; color?: string; width?: number; height?: number; }> = ({ text = 'Default Text', width = 100, height = 100, color = "white" }) => {
     
     return (
-      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+      <div style={{ alignItems: 'center' }}>
         
         <svg
     width={854}
     height={480}
     viewBox="0 0 480 854"
-    Position="center"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   
