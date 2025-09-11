@@ -271,8 +271,15 @@ mark {
   text-align: center;
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
 .logo :global(svg) {
-  max-width: 66%;
+  max-width: 100%;
 }
 
 h1 {
