@@ -8,7 +8,7 @@ import React from 'react';
     
     return (
     
-        
+         <div className="logo">
         <svg
     viewBox="223 66 623 523"
     fill="none"
@@ -115,7 +115,7 @@ import React from 'react';
       stroke="white"
     />
   </svg>
-
+</div>
    
   );
 };
