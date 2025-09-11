@@ -275,7 +275,7 @@ mark {
   margin: 0 auto;
 }
 .logo {
-  display: center;
+  display: inline-flex;
   justify-content: center;
   align-items: center;
   width: 23rem; /* Adjust this value to your desired size */
