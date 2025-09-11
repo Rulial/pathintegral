@@ -7,7 +7,7 @@ import React from 'react';
   const Logo: React.FC<{ text?: string; color?: string; width?: number; height?: number; }> = ({ text = 'Default Text', width = 100, height = 100, color = "white" }) => {
     
     return (
-      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+    
         
         <svg
     width={854}
@@ -118,7 +118,7 @@ import React from 'react';
     />
   </svg>
 
-   </div>
+   
   );
 };
 
