@@ -13,6 +13,7 @@ import React from 'react';
     width={854}
     height={480}
     viewBox="0 0 480 854"
+    Position="center"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   
