@@ -10,7 +10,7 @@ import React from 'react';
     
         
         <svg
-    viewBox="223 66 623 423"
+    viewBox="223 66 660 523"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   
