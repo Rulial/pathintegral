@@ -272,7 +272,7 @@ mark {
 }
 
 .logo {
-  display: flex;
+  display: center;
   justify-content: center;
   align-items: center;
   width: 66%;
