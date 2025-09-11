@@ -278,11 +278,11 @@ mark {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 66%; /* Adjust this value to your desired size */
+  width: 66rem; /* Adjust this value to your desired size */
 }
 
 .logo :global(svg) {
-  width: 100%;
+  width: 100rem;
   margin: 0 auto;
 }
 
