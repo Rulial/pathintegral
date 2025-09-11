@@ -29,6 +29,7 @@ body {
   padding: 0;
   margin: 0;
   font-size: 18px;
+  overflow-x: hidden;
 }
 
 body {
@@ -200,7 +201,7 @@ pre.dark[class*='language-'] {
   flex-wrap: wrap;
   margin: 4rem auto;
   width: 920px;
-  max-width: calc(100vw - var(--gap-double));
+  max-width: 100%;
 }
 
 .feature {
@@ -271,7 +272,7 @@ mark {
 }
 
 .logo :global(svg) {
-  max-width: calc(100vw - var(--gap-double));
+  max-width: 100%;
 }
 
 h1 {
