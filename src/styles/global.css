@@ -276,7 +276,7 @@ mark {
   justify-content: center;
   align-items: center;
   width: 66%;
-  margin: 0 auto;
+  margin: 0 auto; /* This centers the block-level element horizontally */
 }
 
 .logo :global(svg) {
