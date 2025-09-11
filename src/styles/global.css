@@ -268,25 +268,21 @@ mark {
 }
 
 .title {
-  text-align: center;
-}
-
-.logo {
-  display: center;
+  display: flex;
   justify-content: center;
   align-items: center;
-  width: 66%;
-  margin: 0 auto; /* This centers the block-level element horizontally */
+  width: 100%;
+  margin: 0 auto;
 }
 
 .logo :global(svg) {
-  max-width: 100%;
+  width: 100%;
 }
 
 h1 {
   margin: var(--gap-double) 0 calc(0.5 * var(--gap)) 0;
-  font-size: 1.25rem;
-  font-weight: 300;
+  font-size: 1rem;
+  font-weight: 100;
   letter-spacing: -0.05rem;
 }
 
@@ -308,15 +304,15 @@ h2 {
 
 .video :global(video) {
   max-width: 100%;
-  max-height: 90vh;
+  max-height: 100%;
   outline: none;
 }
 
 p {
   color: #000;
   font-weight: 400;
-  font-size: 0.94rem;
-  line-height: 1.7;
+  font-size: 0.66rem;
+  line-height: 2.3rem;
 }
 pre {
   white-space: pre;
@@ -345,18 +341,18 @@ code {
   left: 0;
   top: 0;
   height: 100%;
-  width: 130%;
+  width: 100%;
   background: #fff;
-  transform: skew(-20deg);
+/*  transform: skew(-20deg);*/
 }
 
 @media (max-width: 600px) {
   .explanation {
-    padding: 0 1rem 4rem;
+    padding: 0 1rem 1rem;
   }
 
   h2 {
-    font-size: 0.95rem;
+    font-size: 0rem;
     letter-spacing: 0;
   }
 }
