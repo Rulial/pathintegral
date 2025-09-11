@@ -272,7 +272,7 @@ mark {
 }
 
 .logo :global(svg) {
-  max-width: absolute;
+  max-width: 66%;
 }
 
 h1 {
