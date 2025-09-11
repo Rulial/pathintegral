@@ -275,10 +275,10 @@ mark {
   margin: 0 auto;
 }
 .logo {
-  display: flex;
+  display: absolute;
   justify-content: center;
   align-items: center;
-  width: 66rem; /* Adjust this value to your desired size */
+  width: 23rem; /* Adjust this value to your desired size */
 }
 
 .logo :global(svg) {
