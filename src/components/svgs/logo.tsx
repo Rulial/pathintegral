@@ -12,7 +12,7 @@ import React from 'react';
         <svg
     width={854}
     height={480}
-    viewBox="0 0 480 854"
+    viewBox="229 57 623 523"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   
