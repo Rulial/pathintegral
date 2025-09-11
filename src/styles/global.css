@@ -275,7 +275,8 @@ mark {
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative;
+  width: 66%;
+  margin: 0 auto;
 }
 
 .logo :global(svg) {
