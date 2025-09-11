@@ -4,15 +4,15 @@ import React from 'react';
 
 
 // const Io: React.FC<{ text?: string; color?: string; }> = ({ text = 'Default Text', color = 'black'}) => {
-  const Logo: React.FC<{ text?: string; color?: string; width?: number; height?: number; }> = ({ text = 'Default Text', width = 100, height = 100, color = "black" }) => {
+  const Logo: React.FC<{ text?: string; color?: string; width?: number; height?: number; }> = ({ text = 'Default Text', width = 100, height = 100, color = "white" }) => {
     
     return (
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         
         <svg
-    width={1054}
-    height={700}
-    viewBox="0 0 1054 700"
+    width={854}
+    height={480}
+    viewBox="0 0 854 480"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   
