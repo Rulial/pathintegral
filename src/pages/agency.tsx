@@ -1,4 +1,4 @@
-
+//intelligence agency as in leverage
 import Header from '../components/header';
 import sharedStyles from '../styles/shared.module.css';
 import React from 'react';
@@ -7,7 +7,7 @@ import React from 'react';
 export default function Agency() {
   return (
     <>
-      <Header />
+      
       <div className={sharedStyles.layout}>
         <a href="https://pathintegral0.notion.site/Ventures-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4">ANNA + SOLO FAQ</a>
         <a href="#">Communication FAQ</a>
