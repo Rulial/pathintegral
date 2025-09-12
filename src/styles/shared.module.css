@@ -10,16 +10,6 @@
   text-align: center;
 }
 
-.layout p {
-  text-align: center;
-  text-wrap: balance;
-  max-width: auto;
-  max-height: auto;
-  border: 0px transparent; /* Adds a bounding box */ 
-  padding: 15px; /* Adds padding around the text */
-  color: #006300; /* irish green */
-}
-
 .layout a {
   margin: auto;
   display: block;
@@ -27,5 +17,25 @@
   width: auto;
   text-align: center;
   box-align: absolute;
-  color: #002868;
+  color: #002868; /* american flag */
+}
+
+.layout p {
+  text-align: center;
+  text-wrap: balance;
+  max-width: auto;
+  max-height: auto;
+  border: 0 transparent; /* Adds a bounding box */ 
+  padding: 0; /* Adds padding around the text */
+  color: #006300; /* indian green */
+}
+
+.layout n {
+  text-align: center;
+  text-wrap: balance;
+  max-width: auto;
+  max-height: auto;
+  border: 0 transparent; /* Adds a bounding box */ 
+  padding: 0; /* Adds padding around the text */
+  color: #f3753b; /* safron */
 }

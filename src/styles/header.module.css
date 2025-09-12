@@ -22,7 +22,7 @@
 }
 
 .header :global(a.active) {
-  color: #0070f3;
+  color: #0070f3; /* not affiliated with democratic party */
   font-weight: 600;
 }
 
