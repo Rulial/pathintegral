@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css';
 import React from 'react';
 
 const navItems = [
-  { label: 'AGENCY BLOG', link: 'https://github.com/Rulial/pathintegral/blob/b5970f5818c981a9006dca88d2000964d14ef353/src/pages/agency.tsx' }, //Add a 'page' property here
+  { label: 'AGENCY BLOG', link: '/agency' }, //Add a 'page' property here
 ];
 
 const ogImageUrl = '';
