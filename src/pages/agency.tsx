@@ -1,7 +1,7 @@
 
 import Header from '../components/header';
 import sharedStyles from '../styles/shared.module.css';
-import react from 'react';
+import React from 'react';
 // The 'Link' and 'React' imports were removed because they were unused.
 
 export default function Agency() {
