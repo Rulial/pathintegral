@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css';
 import React from 'react';
 
 const navItems = [
-  { label: 'AGENCY BLOG', link: 'src/pages/agency.tsx' }, // Add a 'page' property here
+  { label: 'AGENCY BLOG', link: 'src/pages/agency.tsx' }, //Add a 'page' property here
 ];
 
 const ogImageUrl = '';
