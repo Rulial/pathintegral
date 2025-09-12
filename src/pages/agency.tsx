@@ -9,7 +9,7 @@ import React from 'react';
 
 // this website is a massively redacted version of https://github.com/ijjk/notion-blog--> thank you.
 
-export default function Index() {
+export default function Agency() {
   return (
     <>
     
@@ -17,12 +17,12 @@ export default function Index() {
       
 
         <div className={sharedStyles.layout}>
-          <a href="https://pathintegral0.notion.site/Ventures-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4"> </a>
+          <a href="https://pathintegral0.notion.site/Ventures-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4"> ANNA + SOLO FAQ</a>
           
-         <a href=""></a>
-         <a href=""></a>
-         <a href=""></a>
-         <a href=""></a>
+         <a href=""> Communication FAQ </a>
+         <a href=""> Personal FAQ </a>
+         <a href=""> Current Affairs FAQ</a>
+         <a href=""> Isights </a>
           
        </div>
       
