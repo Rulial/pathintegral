@@ -17,17 +17,14 @@ export default function Index() {
       
 
         <div className={sharedStyles.layout}>
-          <a href="https://pathintegral0.notion.site/Ventures-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4">
-        <img
-            src="/Debrief4.png"
-            height="640"
-            width="640"
-            alt="A?I"
-          />
-          </a>
-      
-
-        </div>
+          <a href="https://pathintegral0.notion.site/Ventures-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4"> </a>
+          
+         <a href=""></a>
+         <a href=""></a>
+         <a href=""></a>
+         <a href=""></a>
+          
+       </div>
       
     </>
   )
