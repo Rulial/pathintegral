@@ -17,7 +17,7 @@
   max-height: auto;
   border: 0px transparent; /* Adds a bounding box */ 
   padding: 15px; /* Adds padding around the text */
-  color: #006400; /* irish green */
+  color: #006300; /* irish green */
 }
 
 .layout a {
@@ -27,5 +27,5 @@
   width: auto;
   text-align: center;
   box-align: absolute;
-  color: blueviolet;
+  color: #002868;
 }

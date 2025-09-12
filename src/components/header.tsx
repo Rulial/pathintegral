@@ -15,6 +15,7 @@ const ogImageUrl = '';
 const Header = () => {
   const { pathname } = useRouter();
 
+
   return (
     <header className={styles.header}>
       <Head>
