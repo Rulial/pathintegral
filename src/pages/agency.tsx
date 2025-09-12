@@ -1,10 +1,9 @@
 
 import Header from '../components/header'
 import sharedStyles from '../styles/shared.module.css'
-
+import Link from 'next/link'; // Import Link from Next.js
 import React from 'react';
 
-// Your component code here
 
 
 // this website is a massively redacted version of https://github.com/ijjk/notion-blog--> thank you.
