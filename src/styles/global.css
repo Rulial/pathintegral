@@ -4,12 +4,12 @@
   --gap: 1rem;
   --gap-double: 2rem;
 
-  --bg: #fff;
-  --fg: #000;
+  --fg: #fff;
+  --bg: #f3753b;
   --accents-1: #fff;
-  --accents-2: #333;
-  --accents-3: #C82306; /* american flag */
-  --geist-foreground: #000;
+  --accents-2: #012866;
+  --accents-3: #a62300; /* american flag */
+  --geist-foreground: #006300;
 
   --radius: 8px;
 

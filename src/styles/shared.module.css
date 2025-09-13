@@ -17,7 +17,17 @@
   width: auto;
   text-align: center;
   box-align: absolute;
-  color: #002868; /* american flag */
+  color: #A62302; /* american flag */
+}
+
+.layout al {
+  margin: auto;
+  display: block;
+  height: auto;
+  width: auto;
+  text-align: center;
+  box-align: absolute;
+  color: #012866; /* iran aryan */
 }
 
 .layout p {
