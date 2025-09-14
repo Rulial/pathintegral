@@ -1,5 +1,6 @@
 /* import fs from 'fs';
 import path from 'path';
+import matter from 'front-matter'
 
 
 // --- Configuration ---
@@ -46,7 +47,7 @@ const addMdxFrontmatter = (filePath: string): void => {
       number: !isNaN(number as number) ? number : undefined,
     };
     
-    // Use gray-matter to create the new file content with frontmatter
+    // Use front-matter to create the new file content with frontmatter
     const newContent = matter.stringify(contentWithoutHeader, frontmatter);
 
     fs.writeFileSync(filePath, newContent, 'utf-8');
