@@ -15,11 +15,11 @@ export default function Agency() {
 <PathIntegralHeader />
       
       <div className={sharedStyles.layout}>
-        <a href="https://pathintegral0.notion.site/Ventures-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=4">ANNA + SOLO FAQ</a>
-        <a href="#">Communication FAQ</a>
-        <a href="#">Personal FAQ</a>
-        <a href="#">Current Affairs FAQ</a>
-        <a href="#">Insights</a>
+        <a href="https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE">ANNA + SOLO FAQ</a>
+        <a href="https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE">Communication FAQ</a>
+        <a href="https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE">Personal FAQ</a>
+        <a href="https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE">Current Affairs FAQ</a>
+        <a href="https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE">Insights</a>
      
       </div>
 
