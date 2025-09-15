@@ -31,11 +31,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Checkout the repository
+      # Checkout the repository
       - name: Checkout
         uses: actions/checkout@v4
       
-      # Step 2: Detect package manager
+      # Detect package manager
       - name: Detect package manager
         id: detect-package-manager
         run: |
@@ -54,7 +54,7 @@ jobs:
             exit 1
           fi
 
-      # Step 3: Setup Node.js and cache
+      # Setup Node.js and cache
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -75,15 +75,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json', '**/yarn.lock') }}-
 
-      # Step 4: Install dependencies
+      # Install dependencies
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
 
-      # Step 5: Build the project
-      - name: Build with Next.js
+      # Build and Export the project
+      - name: Build and Export with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
 
-      # Step 6: Upload the build artifact
+      # Upload the build artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
