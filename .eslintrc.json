@@ -9,13 +9,7 @@
         "plugin:react/recommended",
     "next/core-web-vitals"
   ],
-  "overrides": [
-    {
-      "files": ["*.mdx"],
-      "extends": ["plugin:mdx/recommended"]
-    }
 
-    ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
         "ecmaVersion": "latest",
