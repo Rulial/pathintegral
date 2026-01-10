@@ -26,7 +26,7 @@ const footer = [
    {
     Comp: Thread,
     alt: 'thread icon',
-    link: 'https://www.threads.com/@pathintegral0',
+    link: 'https://www.threads.com/@pathintegral23',
   },
   
   {
@@ -50,7 +50,7 @@ const footer = [
   {
     Comp: Instagram,
     alt: 'instagram icon',
-    link: 'https://instagram.com/pathintegral0',
+    link: 'https://instagram.com/pathintegral23',
   },
   
   /* {
