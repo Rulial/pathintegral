@@ -10,11 +10,11 @@ const Xicon: React.FC<XiconProps> = ({ size = 40, ...props }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width={1668.56 * scale}
+      width={1668.47 * scale}
       height={size}
-      viewBox="0 0 1668.56 1221.19"
+      viewBox="0 0 1668.56 1221.12"
       
-      enableBackground= "new 0 0 1668.56 1221.19"
+      enableBackground= "new 0 0 1668.56 1221.12"
       
       xmlSpace="preserve"
       {...props}
@@ -25,7 +25,7 @@ const Xicon: React.FC<XiconProps> = ({ size = 40, ...props }) => {
         r={481.33}
         style={{
           stroke: "#fff",
-          strokeMiterlimit: 10,
+          strokeMiterlimit: 8,
         }}
       />
       <path
