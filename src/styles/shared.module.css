@@ -17,7 +17,7 @@
   width: auto;
   text-align: center;
   box-align: absolute;
-  color: #A62302; /* american flag */
+  color: #A62302; 
 }
 
 .layout al {
@@ -27,7 +27,7 @@
   width: auto;
   text-align: center;
   box-align: absolute;
-  color: #012866; /* iran aryan */
+  color: #A62302; 
 }
 
 .layout p {
@@ -35,8 +35,8 @@
   text-wrap: balance;
   max-width: auto;
   max-height: auto;
-  border: 0 transparent; /* Adds a bounding box */ 
-  padding: 0; /* Adds padding around the text */
+  border: 0 transparent; 
+  padding: 0; 
   color: #A62302;  
 }
 
@@ -45,7 +45,7 @@
   text-wrap: balance;
   max-width: auto;
   max-height: auto;
-  border: 0 transparent; /* Adds a bounding box */ 
-  padding: 0; /* Adds padding around the text */
-  color: #f3753b; /* safron */
+  border: 0;
+  padding: 0; 
+  color: #A62302; 
 }
