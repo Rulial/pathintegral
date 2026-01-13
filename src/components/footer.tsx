@@ -38,7 +38,7 @@ const footer = [
   {
     Comp: Xicon,
     alt: 'twitter icon',
-    link: 'https://twitter.com/pathintegral23',
+    link: 'https://twitter.com/leonardpahlavi',
   },
 
 /*  {
@@ -53,11 +53,11 @@ const footer = [
     link: 'https://instagram.com/pathintegral23',
   },
   
-  /* {
+ {
     Comp: Bluesky,
     alt: 'bluesky icon',
     link: 'https://bsky.app/profile/pathintegral.bsky.social',
-  }, */
+  }, 
 
 
 ]
