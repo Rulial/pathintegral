@@ -4,7 +4,7 @@ interface InstagramProps extends React.SVGProps<SVGSVGElement> {
   size?: number;
 }
 
-const Instagram: React.FC<InstagramProps> = ({ size = 40, ...props }) => (
+const Instagram: React.FC<InstagramProps> = ({ size = 41, ...props }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width={size}
