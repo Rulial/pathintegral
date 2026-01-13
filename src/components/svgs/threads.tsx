@@ -5,9 +5,9 @@ import React from 'react';
 const Thread = (props: any) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width="37"
-    height="37"
-    fill="#FFEA00"
+    width="28"
+    height="28"
+    fill="#FFEA11"
     className="threads"
     viewBox="0 0 16 16"
   >
