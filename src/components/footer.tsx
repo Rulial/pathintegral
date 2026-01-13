@@ -17,11 +17,11 @@ import Thread from '../components/svgs/threads'
 
 const footer = [
   
- /* {
-    Comp: Notion,
-    alt: 'notion icon',
-    link: 'https://pathintegral0.notion.site/Path-Integral-AI-Native-Game-Engine-d5c888bb53304b80b1faa8feb852cb7e?pvs=25',
-  }, */
+ {
+    Comp: Bluesky,
+    alt: 'nothing to do with socialism',
+    link: 'https://bsky.app/profile/pathintegral.bsky.social',
+  }, 
 
    {
     Comp: Thread,
@@ -29,11 +29,11 @@ const footer = [
     link: 'https://www.threads.com/@pathintegral23',
   },
   
-  {
+/*  {
     Comp: FAQicon,
     alt: 'FAQ icon',
     link: 'https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE',
-  },
+  }, */
 
   {
     Comp: Xicon,
@@ -42,7 +42,7 @@ const footer = [
   },
 
 /*  {
-    Comp: Substack,
+a    Comp: Substack,
     alt: 'substack icon',
     link: 'https://pathintegral.substack.com/',
   }, */
@@ -53,11 +53,7 @@ const footer = [
     link: 'https://instagram.com/pathintegral23',
   },
   
- {
-    Comp: Bluesky,
-    alt: 'bluesky icon',
-    link: 'https://bsky.app/profile/pathintegral.bsky.social',
-  }, 
+
 
 
 ]
@@ -83,7 +79,7 @@ export default function Footer() {
         </div>
         <br />
         <span> 
-          {'©️ Path Integral 2025 🗽'}
+          {'©️ Path Integral 2026 🗽'}
           <ExtLink href="https://pathintegral0.notion.site/Privacy-Policy-1ee06e48617541d99aee889d0f57f8dd?pvs=25">
            <br /> <text> Privacy Policy. </text>
           </ExtLink>
