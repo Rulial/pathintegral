@@ -15,16 +15,16 @@ export default function Index() {
         
           <a href="mailto:pathintegral3@gmail.com?subject=AI Native Operating Engine-Funding Secured!">
             <Logo />
-          </a>
+         
 
           <br />
          
          
 
-          <al>
+          
    ANNA AI NATIVE ENGINE + SOLO HEAD BAND
       
-</al>
+ </a>
         
       </div>
       
