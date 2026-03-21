@@ -38,7 +38,7 @@ const footer = [
   {
     Comp: Xicon,
     alt: 'twitter icon',
-    link: 'https://twitter.com/leonardpahlaviA',
+    link: 'https://twitter.com/leonard23A',
   },
 
 /*  {
