@@ -29,11 +29,11 @@ const footer = [
     link: 'https://www.threads.com/@pathintegral23',
   },
   
-/*  {
+ {
     Comp: FAQicon,
-    alt: 'FAQ icon',
-    link: 'https://drive.google.com/drive/folders/1iBQqsuHpR0VhquoeDZ74FYjZ5FXsBKxE',
-  }, */
+    alt: 'tumblr',
+    link: 'https://www.tumblr.com/leonarddailythoughts',
+  }, 
 
   {
     Comp: Xicon,
@@ -41,11 +41,11 @@ const footer = [
     link: 'https://twitter.com/leonard23A',
   },
 
-/*  {
-a    Comp: Substack,
-    alt: 'substack icon',
-    link: 'https://pathintegral.substack.com/',
-  }, */
+  {
+   Comp: FAQicon,
+    alt: 'truth social',
+    link: 'https://truthsocial.com/@annaleonard23',
+  }, 
 
   {
     Comp: Instagram,
