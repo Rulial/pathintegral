@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Logo: React.FC<{ text?: string; color?: string; width?: number; height?: number; }> = ({ text = 'Default Text', width = 100, height = 100, color = "white" }) => {
+const Logo: React.FC<{ text?: string; color?: string; width?: number; height?: number; }> = ({ text = 'Default Text', width = 88, height = 88, color = "white" }) => {
     
   return (
     <div className="logo">
