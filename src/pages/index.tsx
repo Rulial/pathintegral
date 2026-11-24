@@ -13,7 +13,7 @@ export default function Index() {
 
         <div className={sharedStyles.layout}>
         
-          <a href="mailto:pathintegral3@gmail.com?subject=AI Native Operating Engine-Funding Secured!">
+          <a href="mailto:pathintegral3@gmail.com?subject= ONLY EMAIL IF YOU WANT TO ACCELERATE">
             <Logo />
          
 
@@ -22,7 +22,7 @@ export default function Index() {
          
 
           
-   ANNA AI NATIVE ENGINE + SOLO HEAD BAND
+   AUTONOMOUS COMPUTATIONAL INTELLIGENCE, ACI
       
  </a>
         
